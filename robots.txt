@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /login
+Sitemap:https://sullivanlawrence55.github.io/UBE/sitemap_index.txt
+Sitemap:https://sullivanlawrence55.github.io/SVK/sitemap_index.txt
+Sitemap:https://sullivanlawrence55.github.io/BRW/sitemap_index.txt
+Sitemap:https://sullivanlawrence55.github.io/YVE/sitemap_index.txt
+Sitemap:https://sullivanlawrence55.github.io/LWO/sitemap_index.txt
+Sitemap:https://sullivanlawrence55.github.io/FGI/sitemap_index.txt
+Sitemap:https://sullivanlawrence55.github.io/EMI/sitemap_index.txt
+Sitemap:https://sullivanlawrence55.github.io/HRB/sitemap_index.txt
+Sitemap:https://sullivanlawrence55.github.io/ABC/sitemap_index.txt
+Sitemap:https://sullivanlawrence55.github.io/FCJ/sitemap_index.txt
+Sitemap:https://sullivanlawrence55.github.io/TND/sitemap_index.txt
+Sitemap:https://sullivanlawrence55.github.io/KQH/sitemap_index.txt
+Sitemap:https://sullivanlawrence55.github.io/DMC/sitemap_index.txt
+Sitemap:https://sullivanlawrence55.github.io/SDP/sitemap_index.txt
+Sitemap:https://sullivanlawrence55.github.io/RMU/sitemap_index.txt
